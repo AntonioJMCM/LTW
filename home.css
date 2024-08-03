@@ -1,0 +1,116 @@
+@font-face
+{
+    font-family:'Chelsea';
+    src:url('C:\Users\Leonor\Documents\MIEIC\3º ANO\LTW\Projeto\Chelsea.ttf');
+}
+
+
+
+html{
+	background-image: url('mushroom.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+	
+}
+
+body{
+	
+	background-color: #E8E8E8;
+	width: 50%;
+	margin: auto;
+}
+
+h1{
+	color: #595959;
+	font-family: 'Leckerli One', cursive;
+	font-size: 40px;
+}
+
+
+#wrapper{
+	
+	background-color: #EEE9E9;
+	width: 50%;
+	margin: auto;
+	padding: 10px 20px;
+	text-align: center;
+	font-family: 'Quicksand', sans-serif;
+	border-radius: 10px;
+	
+}
+
+
+#login a{
+	text-decoration: none;
+	font-weight: bold;
+	color: #595959;	
+}
+
+#login a:hover{
+	text-decoration: none;
+	font-weight: bold;
+	color: #ffffff;	
+}
+
+#register a{
+	text-decoration: none;
+	font-weight: bold;
+	color: #595959;	
+}
+
+#register a:hover{
+	text-decoration: none;
+	font-weight: bold;
+	color: #ffffff;	
+}
+
+input[type="submit"]{
+    color: #fff;
+    background-color: #595959;
+    border-radius: 10px;
+	padding: 5px 10px;
+	font-family: 'Quicksand', sans-serif;
+	border: none;
+    outline:none;
+}
+
+input[type="submit"]:hover{
+    color: #EEE9E9;
+    background-color: #595959;
+    border-radius: 10px;
+	padding: 5px 10px;
+	font-family: 'Quicksand', sans-serif;
+	border: none;
+    outline:none;
+}
+
+input[type="text"]{
+    color: #595959;
+    background-color: #fff;
+    border-radius: 10px;
+	padding: 5px 10px;
+	font-family: 'Quicksand', sans-serif;
+	border: none;
+    outline:none;
+}
+
+input[type="password"]{
+    color: #595959;
+    background-color: #fff;
+    border-radius: 10px;
+	padding: 5px 10px;
+	font-family: 'Quicksand', sans-serif;
+	border: none;
+    outline:none;
+}
+
+input[type="email"]{
+    color: #595959;
+    background-color: #fff;
+    border-radius: 10px;
+	padding: 5px 10px;
+	font-family: 'Quicksand', sans-serif;
+	border: none;
+    outline:none;
+}
